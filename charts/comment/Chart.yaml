@@ -1,0 +1,10 @@
+---
+apiVersion: v1
+name: comment
+version: 1.0.0
+description: OTUS reddit application COMMENT homework
+home: https://github.com/DmitryShomrin/reddit-gitops-hw
+maintainers:
+  - name: DmitryShomrin
+    email: dshomrin@express42.com
+appVersion: 1.0
