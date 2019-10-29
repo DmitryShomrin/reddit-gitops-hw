@@ -12,5 +12,4 @@ spec:
     protocol: TCP
     targetPort: {{ .Values.service.internalPort }}
   selector:
-    app: reddit
-    release: {{ .Release.Name }}
+    app: ui
