@@ -3,43 +3,43 @@ entries:
   comment:
   - apiVersion: v1
     appVersion: "1"
-    created: 2019-10-22T17:20:03.759098+03:00
+    created: 2019-10-29T14:28:43.451637+03:00
     description: OTUS reddit application COMMENT homework
-    digest: feea5ce2e84292a11f6836e5b7eda44ecbabecf7c08b18608c34728e77d06896
+    digest: 712eb60bf09b379d343123d79f1fd6af20527994328c3d6de62b7d9eb2bb0e87
     home: https://github.com/DmitryShomrin/reddit-gitops-hw
     maintainers:
     - email: dshomrin@express42.com
       name: DmitryShomrin
     name: comment
     urls:
-    - https://raw.githubusercontent.com/DmitryShomrin/reddit-gitops-hw/master/comment-1.0.0.tgz
+    - comment-1.0.0.tgz
     version: 1.0.0
   post:
   - apiVersion: v1
     appVersion: "1"
-    created: 2019-10-22T17:20:03.760073+03:00
+    created: 2019-10-29T14:28:43.452154+03:00
     description: OTUS reddit application POST homework
-    digest: aab1ff8db305a042d98f7af1f4375f80bbb1225f80c6f6b2cee1ff9466cfd860
+    digest: b22748086174052fefa859a7275ca9a13ba127891d84f71b917b5432a366f6ce
     home: https://github.com/DmitryShomrin/reddit-gitops-hw
     maintainers:
     - email: dshomrin@express42.com
       name: DmitryShomrin
     name: post
     urls:
-    - https://raw.githubusercontent.com/DmitryShomrin/reddit-gitops-hw/master/post-1.0.0.tgz
+    - post-1.0.0.tgz
     version: 1.0.0
   ui:
   - apiVersion: v1
     appVersion: "1"
-    created: 2019-10-22T17:20:03.760826+03:00
+    created: 2019-10-29T14:28:43.45261+03:00
     description: OTUS reddit application UI homework
-    digest: 6471b285f28ec4181fee09e4d8420a3f2f9d6812e1b624347d20a80d130bc4a4
+    digest: 3a2b09e09388146bf399ea0504aa905005ddfd4720a3c618fbdd37cabc02ea81
     home: https://github.com/DmitryShomrin/reddit-gitops-hw
     maintainers:
     - email: dshomrin@express42.com
       name: DmitryShomrin
     name: ui
     urls:
-    - https://raw.githubusercontent.com/DmitryShomrin/reddit-gitops-hw/master/ui-1.0.0.tgz
+    - ui-1.0.0.tgz
     version: 1.0.0
-generated: 2019-10-22T17:20:03.756569+03:00
+generated: 2019-10-29T14:28:43.450415+03:00
