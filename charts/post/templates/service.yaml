@@ -13,4 +13,3 @@ spec:
     targetPort: {{ .Values.service.internalPort }}
   selector:
     app: post
-    release: {{ .Release.Name }}

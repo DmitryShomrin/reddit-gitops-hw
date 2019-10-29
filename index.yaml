@@ -3,9 +3,9 @@ entries:
   comment:
   - apiVersion: v1
     appVersion: "1"
-    created: 2019-10-29T16:10:43.471424+03:00
+    created: 2019-10-29T16:38:35.353692+03:00
     description: OTUS reddit application COMMENT homework
-    digest: 712eb60bf09b379d343123d79f1fd6af20527994328c3d6de62b7d9eb2bb0e87
+    digest: 0476456b6ac195844693ead8b1a8a8696e7d0f1d87ffbdf702f48499f6bd4fd3
     home: https://github.com/DmitryShomrin/reddit-gitops-hw
     maintainers:
     - email: dshomrin@express42.com
@@ -17,9 +17,9 @@ entries:
   post:
   - apiVersion: v1
     appVersion: "1"
-    created: 2019-10-29T16:10:43.471746+03:00
+    created: 2019-10-29T16:38:35.353959+03:00
     description: OTUS reddit application POST homework
-    digest: b22748086174052fefa859a7275ca9a13ba127891d84f71b917b5432a366f6ce
+    digest: 24d787747e691dbcee51832949c4ba13ada0db380cd033217778c41258de814d
     home: https://github.com/DmitryShomrin/reddit-gitops-hw
     maintainers:
     - email: dshomrin@express42.com
@@ -31,7 +31,7 @@ entries:
   ui:
   - apiVersion: v1
     appVersion: "1"
-    created: 2019-10-29T16:10:43.472058+03:00
+    created: 2019-10-29T16:38:35.354249+03:00
     description: OTUS reddit application UI homework
     digest: 6e0ab1fb17e636d79505f55cda26c035281a37e380c3652c80127a7395351e31
     home: https://github.com/DmitryShomrin/reddit-gitops-hw
@@ -42,4 +42,4 @@ entries:
     urls:
     - ui-1.0.0.tgz
     version: 1.0.0
-generated: 2019-10-29T16:10:43.470772+03:00
+generated: 2019-10-29T16:38:35.353121+03:00
